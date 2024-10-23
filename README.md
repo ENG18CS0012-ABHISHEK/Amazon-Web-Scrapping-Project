@@ -1,1 +1,2 @@
-# Amazon-Web-Scrapping-Project
+# Amazon Sneaker Data Scraper
+This Python project is designed to scrape sneaker data from Amazon, allowing for real-time monitoring of prices, availability, and product details. By utilizing libraries such as BeautifulSoup and requests, it efficiently extracts key information about sneakers, including brand, price, and reviews. The data is stored and can be visualized to track trends, identify discounts, and assist in making informed purchasing decisions. This project demonstrates skills in web scraping, data manipulation, and monitoring, all while adhering to Amazon's scraping guidelines.
